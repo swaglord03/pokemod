@@ -295,8 +295,8 @@ export function initGenerationOne(): SpeciesDataMapConfig {
     ],
     passives: {
       0: AbilityId.DRIZZLE,
-      1: AbilityId.SEED_SOWER,
-      2: AbilityId.FLOWER_VEIL,
+      1: AbilityId.DRIZZLE,
+      2: AbilityId.DRIZZLE,
     },
     levelMoves: [
       [EVOLVE_MOVE, MoveId.PETAL_BLIZZARD],
