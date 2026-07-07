@@ -655,7 +655,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       }),
     ],
     passives: {
-      0: AbilityId.BATTLE_BOND,
+      0: AbilityId.BEAST_BOOST,
       1: AbilityId.LEVITATE,
       2: AbilityId.TURBOBLAZE,
       3: AbilityId.UNNERVE,
