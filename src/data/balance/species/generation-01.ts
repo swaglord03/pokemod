@@ -567,7 +567,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
         new PokemonForm({
           formName: "Mega X",
           formKey: SpeciesFormKey.MEGA_X,
-          type1: PokemonType.FIRE,
+          type1: PokemonType.BUG,
           type2: PokemonType.FIGHTING,
           height: 1.7,
           weight: 110.5,
