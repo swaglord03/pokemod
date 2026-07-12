@@ -15,7 +15,7 @@ import { SpeciesId } from "#enums/species-id";
  */
 export const speciesEggMoves = {
   [SpeciesId.BULBASAUR]: [ MoveId.MATCHA_GOTCHA, MoveId.MOONBLAST, MoveId.ELECTRO_SHOT, MoveId.WEATHER_BALL ],
-  [SpeciesId.CHARMANDER]: [ MoveId.BOOMBURST, MoveId.QUIVER_DANCE, MoveId.TAKE_DOWN, MoveId.FLARE_BLITZ ],
+  [SpeciesId.CHARMANDER]: [ MoveId.BOOMBURST, MoveId.QUIVER_DANCE, MoveId.DOUBLE_EDGE, MoveId.FLARE_BLITZ ],
   [SpeciesId.SQUIRTLE]: [ MoveId.FREEZE_DRY, MoveId.ARMOR_CANNON, MoveId.SHORE_UP, MoveId.ORIGIN_PULSE ],
   [SpeciesId.CATERPIE]: [ MoveId.SANDSEAR_STORM, MoveId.SILK_TRAP, MoveId.TWIN_BEAM, MoveId.BLEAKWIND_STORM ],
   [SpeciesId.WEEDLE]: [ MoveId.THOUSAND_ARROWS, MoveId.NOXIOUS_TORQUE, MoveId.ATTACK_ORDER, MoveId.VICTORY_DANCE ],
