@@ -945,7 +945,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
           type2: null,
           height: 1.6,
           weight: 101.1,
-          ability1: AbilityId.DRAGON,
+          ability1: AbilityId.DRAGONS_MAW,
           ability2: AbilityId.NONE,
           abilityHidden: AbilityId.MEGA_LAUNCHER,
           baseTotal: 630,
