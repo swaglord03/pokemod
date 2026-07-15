@@ -1001,9 +1001,9 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       }),
     ],
     passives: {
-      0: AbilityId.BULLETPROOF,
-      1: AbilityId.BULLETPROOF,
-      2: AbilityId.BULLETPROOF,
+      0: AbilityId.MULTISCALE,
+      1: AbilityId.MULTISCALE,
+      2: AbilityId.MULTISCALE,
     },
     levelMoves: [
       [EVOLVE_MOVE, MoveId.FLASH_CANNON],
