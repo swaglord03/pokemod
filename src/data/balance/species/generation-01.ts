@@ -1022,9 +1022,9 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       [35, MoveId.SHELL_SMASH],
       [39, MoveId.HEADBUTT],
       [44, MoveId.IRON_DEFENSE],
-      [49, MoveId.HYDRO_PUMP],
+      [49, MoveId.DRAGON_PULSE],
       [56, MoveId.WAVE_CRASH],
-      [65, MoveId.SKULL_BASH],
+      [65, MoveId.DRILL_PECK],
     ],
     tms: [
       MoveId.ROAR,
