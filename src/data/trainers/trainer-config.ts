@@ -5639,6 +5639,7 @@ export const trainerConfigs: TrainerConfigs = {
     .setModifierRewardFuncs(
   () => modifierTypes.TERA_ORB,
   () => modifierTypes.MEGA_BRACELET,
+      () => modifierTypes.MAX_MUSHROOM,
 )
     .setPartyMemberFunc(0, getRandomRivalPartyMemberFunc(RIVAL_4_POOL, 0))
     .setPartyMemberFunc(1, getRandomRivalPartyMemberFunc(RIVAL_4_POOL, 1))
