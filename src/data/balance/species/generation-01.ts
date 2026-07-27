@@ -1216,7 +1216,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       [11, MoveId.CONFUSION],
       [13, MoveId.POISON_POWDER],
       [13, MoveId.STUN_SPORE],
-      [13, MoveId.HYPNOSIS,
+      [13, MoveId.HYPNOSIS],
       [17, MoveId.PSYBEAM],
       [19, MoveId.ICY_WIND],
       [21, MoveId.SUPERSONIC],
