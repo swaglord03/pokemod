@@ -11968,7 +11968,7 @@ export function initMoves() {
       .affectedByGravity(),
     new AttackMove(MoveId.PIKA_PAPOW, PokemonType.ELECTRIC, MoveCategory.SPECIAL, -1, -1, 20, -1, 0, 7) //
       .attr(FriendshipPowerAttr),
-    new AttackMove(MoveId.BOUNCY_BUBBLE, PokemonType.WATER, MoveCategory.SPECIAL, 60, 100, 20, -1, 0, 7)
+    new AttackMove(MoveId.BOUNCY_BUBBLE, PokemonType.WATER, MoveCategory.SPECIAL, 90, 100, 20, -1, 0, 7)
       .attr(HitHealAttr, 1)
       .triageMove(),
     new AttackMove(MoveId.BUZZY_BUZZ, PokemonType.ELECTRIC, MoveCategory.SPECIAL, 60, 100, 20, 100, 0, 7) //
