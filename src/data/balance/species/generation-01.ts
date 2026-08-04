@@ -1641,7 +1641,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       id: SpeciesId.PIDGEOTTO,
       generation: 1,
       category: "Bird Pokémon",
-      type1: PokemonType.POSION,
+      type1: PokemonType.POISON,
       type2: PokemonType.WATER,
       height: 1.1,
       weight: 30,
