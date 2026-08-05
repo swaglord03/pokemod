@@ -1568,7 +1568,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
     starterCost: 2,
     evolutions: [new SpeciesEvolution({ speciesId: SpeciesId.PIDGEOTTO, level: 18 })],
     eggTier: EggTier.COMMON,
-    passives: AbilityId.POISON_PUPPETEER,
+    passives: AbilityId.TOXIC_CHAIN,
     levelMoves: [
       [1, MoveId.TACKLE],
       [1, MoveId.GROWL],
@@ -1664,7 +1664,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
     }),
     starter: SpeciesId.PIDGEY,
     evolutions: [new SpeciesEvolution({ speciesId: SpeciesId.PIDGEOT, level: 36 })],
-    passives: AbilityId.POISON_PUPPETEER,
+    passives: AbilityId.TOXIC_CHAIN,
     levelMoves: [
       [1, MoveId.TACKLE],
       [1, MoveId.GROWL],
@@ -1744,7 +1744,7 @@ export function initGenerationOne(): SpeciesDataMapConfig {
           type2: PokemonType.WATER,
           height: 2.2,
           weight: 50.5,
-          ability1: AbilityId.NO_GUARD,
+          ability1: AbilityId.POISON_PUPPETEER,
           ability2: AbilityId.NO_GUARD,
           abilityHidden: AbilityId.NO_GUARD,
           baseTotal: 579,
@@ -1772,8 +1772,8 @@ export function initGenerationOne(): SpeciesDataMapConfig {
       }),
     ],
     passives: {
-      0: AbilityId.POISON_PUPPETEER,
-      1: AbilityId.POISON_PUPPETEER,
+      0: AbilityId.TOXIC_CHAIN,
+      1: AbilityId.TOXIC_CHAIN,
     },
     levelMoves: [
       [RELEARN_MOVE, MoveId.HEAT_WAVE],
