@@ -98,7 +98,6 @@ export enum FormChangeItem {
   GLIMMORANITE,
   TATSUGIRINITE,
   BAXCALIBRITE,
-  RATICATITE,
 
   // #endregion Mega Stones
 
